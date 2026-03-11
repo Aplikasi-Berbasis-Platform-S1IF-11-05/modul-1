@@ -57,5 +57,7 @@ Modul Praktikum 1 & 2
 // 12. Lakukan sinkronisasi data dengan server menggunakan "git pull --rebase origin main".
 // 13. Unggah file tugas ke branch main dengan perintah "git push origin main".
 // 14. Selesai!
+```
+### HASIL SCREENSHOOT
 
 ![Screenshot Eksekusi CMD](hasil_cmd.png)
