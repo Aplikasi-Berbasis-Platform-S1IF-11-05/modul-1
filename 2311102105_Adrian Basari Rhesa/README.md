@@ -2,8 +2,7 @@
 
 <div align="center">
 
-# LAPORAN PRAKTIKUM
-# APLIKASI BERBASIS PLATFORM
+# LAPORAN PRAKTIKUM <br> APLIKASI BERBASIS PLATFORM
 
 <hr>
 
@@ -60,4 +59,4 @@ Modul Praktikum 1 & 2
 ```
 ### HASIL SCREENSHOOT
 
-![Screenshot Eksekusi CMD](hasil_cmd.png)
+
