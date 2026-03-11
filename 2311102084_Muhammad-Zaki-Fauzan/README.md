@@ -42,4 +42,4 @@ Modul Praktikum 1 & 2
 # Tugas 1 - Instalasi dan GIT
 ```
 // 2311102084
-// MUHAMMAD ZAKI FAUZAN
+// MUHAMMAD ZAKI FAUZANn
