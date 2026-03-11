@@ -37,21 +37,16 @@
 
 # Dasar Teori
 
-...
+Modul Praktikum 1 & 2
 
-# Tugas 1
+# Tugas 1 - Instalasi dan GIT
 ```
-//2311102xxx
-//My Bubub
+// 2311102082
+// Reyhan Aldiansyah
 
-<!DOCTYPE html>
-<html lang="id">
-<head>
-  <meta charset="UTF-8"/>
-  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>Aku Cinta Telkom</title>
-</head>
-<body>
-  ...
-</body>
-</html>
+// Langkah-langkahnya
+// 1. Install GIT
+// 2. Setelah Install, Buat Folder seperti "Laprak ABP" yang disimpan dalam Folder D saya
+// 3. Masuk CMD lalu masuk ke direktori Folder tadi
+// 4. Git Clone Repository Main Modul-1
+// 5. Git add . 
