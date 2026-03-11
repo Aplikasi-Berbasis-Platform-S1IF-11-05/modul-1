@@ -1,40 +1,45 @@
-# Modul 1
+# Modul 1 
 
-Silahkan upload tugas yang sudah diberikan beserta source code nya di folder masing masing
+<div align="center">
+  <br />
+  <h1>LAPORAN PRAKTIKUM <br> APLIKASI BERBASIS PLATFORM </h1>
+  <br />
+  <h3>MODUL 1 <br> Instalasi dan GIT </h3>
+  <br />
+  <img width="512" height="512" alt="telyu" src="https://github.com/user-attachments/assets/724a3291-bcf9-448d-a395-3886a8659d79" />
+  <br />
+  <br />
+  <br />
+  <h3>Disusun Oleh :</h3>
+  <p>
+    <strong>Muhammad Zaki Fauzan</strong>
+    <br>
+    <strong>2311102084</strong>
+    <br>
+    <strong>S1 IF-11-REG05</strong>
+  </p>
+  <br />
+  <h3>Dosen Pengampu :</h3>
+  <p>
+    <strong>Dedi Agung Prabowo, S.Kom., M.Kom</strong>
+  </p>
+  <br />
+  <br />
+  <h4>Asisten Praktikum :</h4>
+  <strong>Apri Pandu Wicaksono </strong>
+  <br>
+  <strong>Hamka Zaenul Ardi</strong>
+  <br />
+  <h3>LABORATORIUM HIGH PERFORMANCE <br>FAKULTAS INFORMATIKA <br>UNIVERSITAS TELKOM PURWOKERTO <br>2026 </h3>
+</div>
 
-## Task
+<hr>
 
-- Buat laporan dalam format Markdown file dengan penamaan README.md
-- Upload Source Code dengan format yang sudah ditentukan sebelum nya (tugas-1, tugas-2, etc)
-- Tambahkan watermark pada source code dan juga laporan (harus mengandung nim dan nama)
+# Dasar Teori
 
-## Langkah Langkah Membuat Folder (khusus windows)
+Modul Praktikum 1 & 2
 
-Membuat Folder terlebih dahulu dengan format NIM_Nama
-
-~~~bash
-mkdir "2311102081_Apri Pandu Wicaksono"
-~~~
-
-Pindah ke folder yang sudah di buat
-
-~~~bash
-cd "2311102081_Apri Pandu Wicaksono"
-~~~
-
-Lanjut Membuat File README
-
-~~~bash
-echo "" >> README.md
-~~~
-
-## Note
-
-- Upload harus lewat github CLI, bukan menggunakan fitur drag and drop atau by platform github langsung
-- Laporan praktikum berisi kan nama, logo, identitas, dan cover dan di upload dengan format README.md
-- Di dalam folder masing masing mahasiswa harus berisi laporan (README.md, source code, dan file screenshot)
-
-## Reference
-
-- [Akses Materi](https://artk.my.id/modul-praktikum-abp)
-- [Akun Github](https://artk.my.id/akun-github-abp-05)
+# Tugas 1 - Instalasi dan GIT
+```
+// 2311102084
+// MUHAMMAD ZAKI FAUZAN
