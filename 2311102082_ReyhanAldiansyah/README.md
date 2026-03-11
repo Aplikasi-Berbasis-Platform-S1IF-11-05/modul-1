@@ -49,4 +49,13 @@ Modul Praktikum 1 & 2
 // 2. Setelah Install, Buat Folder seperti "Laprak ABP" yang disimpan dalam Folder D saya
 // 3. Masuk CMD lalu masuk ke direktori Folder tadi
 // 4. Git Clone Repository Main Modul-1
-// 5. Git add . 
+// 5. Lalu kita masuk ke folder repo dulu dengan "cd modul-1"
+// 6. Kita buat Folder sesuai NIM dan Nama dengan "mkdir 2311102082_ReyhanAldiansyah" lalu lanjut dengan "cd 2311102082_ReyhanAldiansyah"
+// 7. Selanjutnya kita buat file README.md nya dengan "echo # Modul 1 > README.md"
+// 8. Setelah itu tinggal isi File itu dengan "code ." akan diarahkan ke VSCODE (kalo saya ini)
+// 9. Kalo sudah diisi tinggal balik ke repo dengan "cd .."
+// 10. Nah ini buat menambahkan Folder dan File tadi ke Repo Modul 1 dengan "git add ."
+// 11. Kita kasih commitnya dengan "git commit -m "Tugas Modul 1"
+// 12. Kita lakukan sinkronisasi dulu dengan "git pull --rebase origin main"
+// 13. Langkah terakhir tinggal Push aja dengan "git push origin main"
+// 14. DONE BWANG
