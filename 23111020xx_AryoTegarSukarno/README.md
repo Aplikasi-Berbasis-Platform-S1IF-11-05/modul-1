@@ -1,4 +1,4 @@
-# Modul 1
+![cmd](https://github.com/user-attachments/assets/084e144a-ccd6-4570-8f2d-f69b0485a9df)# Modul 1
 
 <div align="center">
   <br />
@@ -12,9 +12,9 @@
   <br />
   <h3>Disusun Oleh :</h3>
   <p>
-    <strong>My Bubub</strong>
+    <strong>ARYO TEGAR SUKARNO</strong>
     <br>
-    <strong>2311102xxx</strong>
+    <strong>23111022311102018/strong>
     <br>
     <strong>S1 IF-11-REG05</strong>
   </p>
@@ -48,4 +48,9 @@ proyek menggunakan Git melalui perintah <i>command line</i> seperti <b>git add</
 <b>git pull</b>, dan <b>git push</b>.
 
 # Tugas 1
+
+![cmd](https://github.com/user-attachments/assets/d61c661c-6cc8-4486-9488-eaa60cf7e468)
+
+
+![upload](https://github.com/user-attachments/assets/134c1aec-f2dd-40b4-97e9-40cd84d2ddd7)
 
