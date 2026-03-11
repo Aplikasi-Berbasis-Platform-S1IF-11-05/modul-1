@@ -1,4 +1,3 @@
-![cmd](https://github.com/user-attachments/assets/084e144a-ccd6-4570-8f2d-f69b0485a9df)# Modul 1
 
 <div align="center">
   <br />
