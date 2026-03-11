@@ -59,3 +59,9 @@ Modul Praktikum 1 & 2
 // 12. Kita lakukan sinkronisasi dulu dengan "git pull --rebase origin main"
 // 13. Langkah terakhir tinggal Push aja dengan "git push origin main"
 // 14. DONE BWANG
+
+## Output
+<img width="1335" height="515" alt="Git" src="https://github.com/user-attachments/assets/ef714cb8-8d63-42e9-82a6-aa269e15509d" />
+
+<img width="1825" height="975" alt="Modul 1_2311102082_ReyhanAldiansyah" src="https://github.com/user-attachments/assets/e70eadf2-db23-48ba-a0cb-69016a922654" />
+
