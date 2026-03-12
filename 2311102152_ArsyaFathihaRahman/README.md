@@ -60,6 +60,7 @@ Beberapa perintah dasar Git yang sering digunakan antara lain:
 Dalam praktiknya Git sering digunakan bersama layanan hosting repository seperti GitHub yang menyediakan penyimpanan repository secara online.
 
 ---
+<img width="848" height="192" alt="masuk folder" src="https://github.com/user-attachments/assets/b609bd69-a7fd-433f-a1d3-4149705f3d5e" />
 
 
 ## Langkah-langkah
@@ -75,6 +76,8 @@ Langkah pertama adalah masuk ke folder kerja yang telah disiapkan sebelumnya, ya
 ```bash
 cd "/d/SEMESTER6/PRAKTIKUM ABP"
 ```
+<img width="848" height="192" alt="masuk folder" src="https://github.com/user-attachments/assets/a9588321-23cb-4f4f-97a4-388128a6a6b8" />
+
 
 ---
 
@@ -87,6 +90,8 @@ git clone https://github.com/Aplikasi-Berbasis-Platform-S1IF-11-05/modul-1
 ```
 
 Setelah proses cloning selesai, repository akan tersimpan pada folder kerja.
+<img width="830" height="171" alt="github" src="https://github.com/user-attachments/assets/56526f74-0853-4362-8cd7-8d4af8724126" />
+
 
 ---
 
@@ -97,6 +102,7 @@ Masuk ke dalam folder repository yang telah diunduh.
 ```bash
 cd modul-1
 ```
+<img width="413" height="58" alt="cd modul" src="https://github.com/user-attachments/assets/0309a242-ff9b-4bec-b841-057a3b2aa222" />
 
 ---
 
@@ -108,11 +114,13 @@ Setelah berada di dalam repository, buat folder sesuai dengan format **NIM_Nama*
 mkdir 2311102152_ArsyaFathihaRahman
 ```
 
+
 Kemudian masuk ke dalam folder tersebut.
 
 ```bash
 cd 2311102152_ArsyaFathihaRahman
 ```
+<img width="583" height="105" alt="mkdir " src="https://github.com/user-attachments/assets/e9424ab4-db6f-4b65-9c3b-7b23edfcb5c1" />
 
 ---
 
@@ -125,6 +133,7 @@ echo "# Modul 1" > README.md
 ```
 
 File README ini nantinya akan diisi dengan isi laporan praktikum.
+<img width="786" height="120" alt="file readme" src="https://github.com/user-attachments/assets/e2467ff7-7dd2-4579-98e6-76507859b102" />
 
 ---
 
@@ -135,6 +144,7 @@ Setelah file README dibuat, langkah berikutnya adalah menambahkan file tersebut 
 ```bash
 git add .
 ```
+<img width="739" height="120" alt="git add" src="https://github.com/user-attachments/assets/caafd9c4-cc23-4006-bb34-7be03e13ea57" />
 
 ---
 
@@ -145,6 +155,7 @@ Commit digunakan untuk menyimpan perubahan yang telah dilakukan pada repository.
 ```bash
 git commit -m "Tugas Modul 1 - 2311102152"
 ```
+<img width="751" height="128" alt="commit" src="https://github.com/user-attachments/assets/27f54695-e37d-4461-923a-3f4ad29a7c0f" />
 
 ---
 
@@ -155,6 +166,7 @@ Langkah terakhir adalah mengunggah file yang telah dibuat ke repository GitHub m
 ```bash
 git push origin main
 ```
+<img width="823" height="267" alt="push" src="https://github.com/user-attachments/assets/5622c030-6905-44e9-b65d-d7a14c9ff19a" />
 
 Setelah proses push selesai, file laporan praktikum akan muncul pada repository GitHub.
 
