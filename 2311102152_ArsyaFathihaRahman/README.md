@@ -1,4 +1,3 @@
-<img width="1920" height="1080" alt="Arsya_Hasil tampilan" src="https://github.com/user-attachments/assets/31b3a2b3-ec05-4caf-a47c-12179875f8e2" /><img width="1920" height="1080" alt="2311102152_Git" src="https://github.com/user-attachments/assets/ce179154-cb42-4394-bb6d-ff84af93d9cc" /><div align="center">
   <br />
   <h1>LAPORAN PRAKTIKUM <br> APLIKASI BERBASIS PLATFORM </h1>
   <br />
