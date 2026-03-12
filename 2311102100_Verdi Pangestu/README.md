@@ -64,3 +64,5 @@ Modul Praktikum 1 & 2
 
 ```
 #### HASIL SCREENSHOOT
+
+<img width="1103" height="639" alt="Cuplikan layar 2026-03-12 222536" src="https://github.com/user-attachments/assets/d2ba2dbc-a112-4579-8a34-985bb4dc4c92" />
