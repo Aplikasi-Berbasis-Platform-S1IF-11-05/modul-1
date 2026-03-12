@@ -187,6 +187,6 @@ Berikut adalah beberapa hasil tampilan dari proses yang telah dilakukan:
 
 ## Kesimpulan
 
-Berdasarkan praktikum yang telah dilakukan, dapat disimpulkan bahwa Git merupakan salah satu sistem version control yang sangat penting dalam proses pengembangan perangkat lunak. Dengan menggunakan Git, setiap perubahan pada proyek dapat tercatat dengan baik sehingga memudahkan pengelolaan kode program.
+Berdasarkan praktikum yang telah dilaksanakan, dapat disimpulkan bahwa Git merupakan sistem version control yang berperan penting dalam proses pengembangan perangkat lunak. Dengan adanya Git, setiap perubahan yang terjadi pada suatu proyek dapat tercatat dengan baik sehingga memudahkan proses pengelolaan serta pelacakan perkembangan kode program.
 
-Selain itu, penggunaan Git juga mempermudah proses kolaborasi antar developer karena setiap orang dapat bekerja pada repository yang sama tanpa harus khawatir kehilangan perubahan yang telah dibuat. Melalui praktikum ini, mahasiswa dapat memahami dasar penggunaan Git seperti melakukan clone repository, menambahkan file ke staging area, melakukan commit, serta mengunggah perubahan ke repository GitHub.
+Selain itu, Git juga memberikan kemudahan dalam kerja sama tim karena beberapa developer dapat bekerja pada repository yang sama tanpa khawatir terjadi kehilangan data atau perubahan kode. Melalui praktikum ini, mahasiswa dapat memahami dasar penggunaan Git, mulai dari proses cloning repository, menambahkan file ke staging area, melakukan commit, hingga mengunggah perubahan ke repository GitHub.
