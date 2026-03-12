@@ -60,7 +60,6 @@ Beberapa perintah dasar Git yang sering digunakan antara lain:
 Dalam praktiknya Git sering digunakan bersama layanan hosting repository seperti GitHub yang menyediakan penyimpanan repository secara online.
 
 ---
-<img width="848" height="192" alt="masuk folder" src="https://github.com/user-attachments/assets/b609bd69-a7fd-433f-a1d3-4149705f3d5e" />
 
 
 ## Langkah-langkah
