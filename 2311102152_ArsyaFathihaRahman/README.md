@@ -1,4 +1,4 @@
-<div align="center">
+<img width="1920" height="1080" alt="Arsya_Hasil tampilan" src="https://github.com/user-attachments/assets/31b3a2b3-ec05-4caf-a47c-12179875f8e2" /><img width="1920" height="1080" alt="2311102152_Git" src="https://github.com/user-attachments/assets/ce179154-cb42-4394-bb6d-ff84af93d9cc" /><div align="center">
   <br />
   <h1>LAPORAN PRAKTIKUM <br> APLIKASI BERBASIS PLATFORM </h1>
   <br />
@@ -157,3 +157,25 @@ git push origin main
 ```
 
 Setelah proses push selesai, file laporan praktikum akan muncul pada repository GitHub.
+
+---
+
+## Hasil Program
+
+Berikut adalah hasil dari proses praktikum yang telah dilakukan menggunakan Git melalui Command Line Interface. Pada tahap ini seluruh langkah mulai dari proses cloning repository, pembuatan folder tugas, pembuatan file README, hingga proses commit dan push ke GitHub telah berhasil dilakukan.
+
+<img width="1920" height="1080" alt="2311102152_Git" src="https://github.com/user-attachments/assets/fa1ae61c-b7c9-4310-9634-2c9b3884923b" />
+
+
+Berikut adalah beberapa hasil tampilan dari proses yang telah dilakukan:
+<img width="1920" height="1080" alt="Arsya_Hasil tampilan" src="https://github.com/user-attachments/assets/de441fb0-32cc-4c2d-9c16-06eed83ee249" />
+
+
+
+---
+
+## Kesimpulan
+
+Berdasarkan praktikum yang telah dilakukan, dapat disimpulkan bahwa Git merupakan salah satu sistem version control yang sangat penting dalam proses pengembangan perangkat lunak. Dengan menggunakan Git, setiap perubahan pada proyek dapat tercatat dengan baik sehingga memudahkan pengelolaan kode program.
+
+Selain itu, penggunaan Git juga mempermudah proses kolaborasi antar developer karena setiap orang dapat bekerja pada repository yang sama tanpa harus khawatir kehilangan perubahan yang telah dibuat. Melalui praktikum ini, mahasiswa dapat memahami dasar penggunaan Git seperti melakukan clone repository, menambahkan file ke staging area, melakukan commit, serta mengunggah perubahan ke repository GitHub.
