@@ -72,7 +72,7 @@ cd "C:\KULIAH\semester 6\ABP\PRAKTIKUM\modul-1"
 2. Masuk ke folder yang sudah di buat.
 
 ```bash
-C:\KULIAH\semester 6\ABP\PRAKTIKUM\modul-1
+cd C:\KULIAH\semester 6\ABP\PRAKTIKUM\modul-1
 ```
 
 ![Membuat folder](assets/step2.png)
@@ -81,7 +81,7 @@ C:\KULIAH\semester 6\ABP\PRAKTIKUM\modul-1
 
 ```bash
 git init
-git remote add origin https://github.com/aelyn4k/modul-1test.git
+git git remote add origin https://github.com/jakijek/praktikum-abp.git
 ```
 
 ![Menghubungkan folder lokal dengan repository github](assets/step3.png)
