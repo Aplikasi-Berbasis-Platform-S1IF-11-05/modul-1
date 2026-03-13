@@ -57,7 +57,7 @@ Setup repository-nya wajib via CLI ya. Simpen dulu mouse lu, biasain ngetik comm
 
 ## Install Git
 
-![Install Git](assets/installgit.png)
+![Install Git](assets/installgitclone.png)
 
 ## Step Pembuatan Repository Pribadi (Via CLI Git)
 
