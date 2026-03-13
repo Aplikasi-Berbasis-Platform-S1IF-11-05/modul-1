@@ -10,9 +10,9 @@
   <br />
   <h3>Disusun Oleh :</h3>
   <p>
-    <strong>MUHAMMAD AULIA MUZZAKI NUGRAHA</strong>
+    <strong>Muhammad Zaki Fauzan</strong>
     <br>
-    <strong>2311102051</strong>
+    <strong>2311102084</strong>
     <br>
     <strong>S1 IF-11-REG05</strong>
   </p>
@@ -35,23 +35,21 @@
 
 # Dasar Teori
 
-Git adalah salah satu sistem pengontrol versi (Version Control System) pada proyek perangkat lunak yang diciptakan oleh Linus Torvalds.
-Pengontrol versi bertugas mencatat setiap perubahan pada file proyek yang dikerjakan oleh banyak orang maupun sendiri.
-Git dikenal juga dengan distributed revision control (VCS terdistribusi), artinya penyimpanan database Git tidak hanya berada dalam satu tempat saja.
+Git merupakan salah satu sistem pengontrol versi (Version Control System / VCS) yang sering digunakan dalam pengembangan perangkat lunak. Sistem ini dikembangkan oleh Linus Torvalds. Pengontrol versi berfungsi untuk mencatat setiap perubahan yang terjadi pada file dalam suatu proyek, baik proyek yang dikerjakan secara individu maupun secara tim. Dengan adanya sistem ini, setiap perubahan pada file dapat tersimpan dengan baik sehingga riwayat perkembangan proyek dapat dilihat kembali.
 
-Secara umum, Git digunakan untuk memantau riwayat perubahan kode, dokumen, maupun aset proyek sehingga setiap perubahan dapat dilacak dengan jelas. Dengan Git, pengembang dapat mengetahui siapa yang mengubah file, kapan perubahan dilakukan, dan apa isi perubahan tersebut. Hal ini sangat penting dalam pengembangan perangkat lunak karena proyek biasanya dikerjakan secara bertahap dan sering kali melibatkan lebih dari satu orang.
+Git juga dikenal sebagai distributed version control system, yang berarti database atau riwayat proyek tidak hanya tersimpan pada satu tempat saja. Setiap pengguna yang memiliki repository Git akan memiliki salinan lengkap dari proyek beserta seluruh riwayat perubahannya di komputer masing-masing. Hal ini membuat proses pengembangan menjadi lebih fleksibel dan aman karena data tidak bergantung pada satu server saja.
 
-Git bekerja dengan konsep repository, yaitu tempat penyimpanan seluruh file proyek beserta riwayat versinya. Repository dapat berbentuk repository lokal yang berada di komputer pengguna, dan repository remote yang berada di server seperti GitHub. Repository lokal dipakai untuk mengelola file secara langsung, sedangkan repository remote digunakan untuk backup, kolaborasi tim, dan sinkronisasi hasil pekerjaan.
+Secara umum, Git digunakan untuk memantau perubahan pada kode program, dokumen, maupun file proyek lainnya. Melalui Git, pengembang dapat mengetahui siapa yang melakukan perubahan, kapan perubahan tersebut dilakukan, serta bagian apa saja yang diubah. Informasi ini sangat membantu dalam proses pengembangan perangkat lunak yang biasanya dilakukan secara bertahap dan melibatkan lebih dari satu orang.
 
-Dalam penggunaan Git terdapat beberapa konsep penting, yaitu working directory, staging area, dan commit. Working directory adalah area kerja tempat file diedit secara langsung. Setelah file diubah, perubahan tersebut belum langsung masuk ke riwayat Git, melainkan perlu ditambahkan terlebih dahulu ke staging area menggunakan perintah `git add`. Setelah itu, perubahan disimpan secara permanen ke riwayat versi melalui `git commit`. Commit dapat dipahami sebagai snapshot kondisi proyek pada waktu tertentu.
+Dalam Git terdapat konsep repository, yaitu tempat penyimpanan seluruh file proyek beserta riwayat versinya. Repository dapat berupa repository lokal yang berada di komputer pengguna dan repository remote yang berada pada server atau layanan berbasis cloud seperti GitHub. Repository lokal digunakan untuk mengelola file secara langsung, sedangkan repository remote biasanya digunakan sebagai tempat penyimpanan cadangan, kolaborasi tim, serta sinkronisasi pekerjaan
 
-Git juga menyediakan branch, yaitu cabang pengembangan yang memungkinkan pengguna mengerjakan fitur atau perubahan tertentu tanpa mengganggu branch utama. Pada banyak proyek, branch utama biasanya bernama `main`. Dengan branch, proses pengembangan menjadi lebih aman dan terstruktur karena perubahan dapat diuji terlebih dahulu sebelum digabungkan ke branch utama.
+Selain itu, Git memiliki beberapa komponen penting dalam alur kerjanya yaitu working directory, staging area, dan commit. Working directory merupakan area kerja tempat pengguna melakukan perubahan pada file. Setelah file dimodifikasi, perubahan tersebut perlu dimasukkan ke staging area menggunakan perintah git add. Selanjutnya perubahan akan disimpan secara permanen ke dalam riwayat Git melalui perintah git commit. Commit dapat dianggap sebagai rekaman kondisi proyek pada waktu tertentu.
 
-Selain Git, terdapat GitHub yang sering digunakan bersama Git. Git adalah tools untuk mengelola versi, sedangkan GitHub adalah platform hosting repository berbasis cloud. GitHub mempermudah penyimpanan repository remote, kolaborasi tim, pembuatan pull request, review kode, dan dokumentasi proyek. Jadi, Git dan GitHub saling berkaitan, tetapi keduanya memiliki fungsi yang berbeda.
+Git juga menyediakan fitur branch, yaitu cabang pengembangan yang memungkinkan pengguna mengerjakan fitur atau perubahan tertentu tanpa mengganggu branch utama. Biasanya branch utama dalam proyek dinamakan main. Dengan adanya branch, pengembang dapat menguji perubahan terlebih dahulu sebelum digabungkan kembali ke branch utama.
 
-Salah satu proses penting dalam Git adalah `git push`, yaitu perintah untuk mengirim commit dari repository lokal ke repository remote. Perintah ini digunakan agar hasil pekerjaan yang telah di-commit di komputer lokal dapat tersimpan di GitHub. Dengan demikian, data proyek menjadi lebih aman dan dapat diakses dari perangkat lain atau oleh anggota tim lainnya. Sebaliknya, untuk mengambil perubahan dari repository remote ke lokal biasanya digunakan `git pull` atau `git fetch`.
+Dalam praktiknya, Git sering digunakan bersama platform seperti GitHub yang berfungsi sebagai layanan penyimpanan repository secara online. Platform ini memudahkan proses kolaborasi, penyimpanan repository remote, serta pengelolaan proyek melalui fitur seperti pull request dan code review. Salah satu perintah penting dalam Git adalah git push, yaitu perintah untuk mengirim perubahan dari repository lokal ke repository remote. Sebaliknya, perintah git pull digunakan untuk mengambil perubahan terbaru dari repository remote ke repository lokal.
 
-Pada praktikum ini, penggunaan Git melalui Command Line Interface (CLI) juga memberikan pemahaman yang lebih mendasar terhadap alur kerja Git. Dengan CLI, pengguna dapat memahami urutan proses secara jelas, mulai dari inisialisasi repository, pengecekan status file, penambahan file ke staging area, commit perubahan, hingga push ke GitHub. Pemahaman ini penting sebagai dasar sebelum menggunakan tools berbasis antarmuka grafis.
+Pada praktikum ini, Git digunakan melalui Command Line Interface (CLI) agar pengguna dapat memahami proses kerja Git secara lebih mendasar. Dengan menggunakan CLI, pengguna dapat mempelajari tahapan penggunaan Git secara berurutan mulai dari inisialisasi repository, pengecekan status file, menambahkan file ke staging area, melakukan commit, hingga mengirim perubahan ke GitHub. Pemahaman ini menjadi dasar penting sebelum menggunakan Git melalui antarmuka grafis..
 
 # Task 1: Pemanasan Terminal
 
@@ -59,23 +57,22 @@ Setup repository-nya wajib via CLI ya. Simpen dulu mouse lu, biasain ngetik comm
 
 ## Install Git
 
-![Install Git](assets/installGit.png)
+![Install Git](assets/InstallGit.png)
 
 ## Step Pembuatan Repository Pribadi (Via CLI Git)
 
-1. Buka terminal, lalu masuk ke folder kerja.
+1. Buka terminal, lalu pindah ke folder yang kamu buat.
 
 ```bash
-cd "C:\Users\M S I\Pictures\apalah"
+cd "C:\KULIAH\semester 6\ABP\PRAKTIKUM\modul-1"
 ```
 
-![Buka Terminal](assets/step1.png)
+![Buka Terminal](assets/Step1.png)
 
-2. Masuk ke folder proyek kamu.
+2. Masuk ke folder yang sudah di buat.
 
 ```bash
-mkdir modul-1
-cd modul-1
+C:\KULIAH\semester 6\ABP\PRAKTIKUM\modul-1
 ```
 
 ![Membuat folder](assets/step2.png)
