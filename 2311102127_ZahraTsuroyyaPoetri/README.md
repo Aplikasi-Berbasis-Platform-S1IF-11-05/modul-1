@@ -58,11 +58,6 @@ terdistribusi), artinya penyimpanan database Git tidak hanya berada dalam satu t
 //2311102127
 //Zahra Tsuroyya Poetri
 
-# Modul 1 Praktikum Aplikasi Berbasis Platform
-
-// 2311102127
-// Zahra Tsuroyya Poetri
-
 // Proses Pengerjaan Tugas
 // 1. Memastikan aplikasi Git sudah ter-install di laptop/komputer dengan menjalankan perintah "git --version" pada CMD.
 // 2. Menyiapkan folder penyimpanan praktikum pada Local Disk D dengan path:
