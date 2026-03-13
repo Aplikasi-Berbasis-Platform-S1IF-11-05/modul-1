@@ -1,5 +1,3 @@
-"# Modul 1" 
-
 <div align="center">
   <br />
   <h1>LAPORAN PRAKTIKUM <br> APLIKASI BERBASIS PLATFORM </h1>
@@ -51,5 +49,5 @@ Dalam penggunaannya, Git biasanya terhubung dengan layanan penyimpanan <i>reposi
 </p>
 
 # Screenshoot Program
-![alt text](image.png)
+![alt text]()
 ![alt text](<Screenshot (1141).png>)
