@@ -48,5 +48,5 @@ Dengan Git, setiap perubahan kode dapat dicatat dalam bentuk commit sehingga dev
 
 ```
 Output: 
- <img src="ssgithub.PNG" width="800">
+ <img src="ssgithub.png" width="800">
 </p>
