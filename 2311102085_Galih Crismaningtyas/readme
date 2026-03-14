@@ -1,0 +1,176 @@
+<div align="center">
+  <br />
+  <h1>LAPORAN PRAKTIKUM <br> APLIKASI BERBASIS PLATFORM </h1>
+  <br />
+  <h3>MODUL 1 <br> Instalasi dan GIT </h3>
+  <br />
+  <img width="512" height="512" alt="telyu" src="https://github.com/user-attachments/assets/724a3291-bcf9-448d-a395-3886a8659d79" />
+  <br />
+  <br />
+  <br />
+  <h3>Disusun Oleh :</h3>
+  <p>
+    <strong>MUHAMMAD ZAKI FAUZAN</strong>
+    <br>
+    <strong>2311102084</strong>
+    <br>
+    <strong>S1 IF-11-REG05</strong>
+  </p>
+  <br />
+  <h3>Dosen Pengampu :</h3>
+  <p>
+    <strong>Dedi Agung Prabowo, S.Kom., M.Kom</strong>
+  </p>
+  <br />
+  <br />
+  <h4>Asisten Praktikum :</h4>
+  <strong>Apri Pandu Wicaksono </strong>
+  <br>
+  <strong>Hamka Zaenul Ardi</strong>
+  <br />
+  <h3>LABORATORIUM HIGH PERFORMANCE <br>FAKULTAS INFORMATIKA <br>UNIVERSITAS TELKOM PURWOKERTO <br>2026 </h3>
+</div>
+
+<hr>
+
+# Dasar Teori
+
+Git merupakan salah satu sistem pengontrol versi (Version Control System / VCS) yang sering digunakan dalam pengembangan perangkat lunak. Sistem ini dikembangkan oleh Linus Torvalds. Pengontrol versi berfungsi untuk mencatat setiap perubahan yang terjadi pada file dalam suatu proyek, baik proyek yang dikerjakan secara individu maupun secara tim. Dengan adanya sistem ini, setiap perubahan pada file dapat tersimpan dengan baik sehingga riwayat perkembangan proyek dapat dilihat kembali.
+
+Git juga dikenal sebagai distributed version control system, yang berarti database atau riwayat proyek tidak hanya tersimpan pada satu tempat saja. Setiap pengguna yang memiliki repository Git akan memiliki salinan lengkap dari proyek beserta seluruh riwayat perubahannya di komputer masing-masing. Hal ini membuat proses pengembangan menjadi lebih fleksibel dan aman karena data tidak bergantung pada satu server saja.
+
+Secara umum, Git digunakan untuk memantau perubahan pada kode program, dokumen, maupun file proyek lainnya. Melalui Git, pengembang dapat mengetahui siapa yang melakukan perubahan, kapan perubahan tersebut dilakukan, serta bagian apa saja yang diubah. Informasi ini sangat membantu dalam proses pengembangan perangkat lunak yang biasanya dilakukan secara bertahap dan melibatkan lebih dari satu orang.
+
+Dalam Git terdapat konsep repository, yaitu tempat penyimpanan seluruh file proyek beserta riwayat versinya. Repository dapat berupa repository lokal yang berada di komputer pengguna dan repository remote yang berada pada server atau layanan berbasis cloud seperti GitHub. Repository lokal digunakan untuk mengelola file secara langsung, sedangkan repository remote biasanya digunakan sebagai tempat penyimpanan cadangan, kolaborasi tim, serta sinkronisasi pekerjaan.
+
+Selain itu, Git memiliki beberapa komponen penting dalam alur kerjanya yaitu working directory, staging area, dan commit. Working directory merupakan area kerja tempat pengguna melakukan perubahan pada file. Setelah file dimodifikasi, perubahan tersebut perlu dimasukkan ke staging area menggunakan perintah git add. Selanjutnya perubahan akan disimpan secara permanen ke dalam riwayat Git melalui perintah git commit. Commit dapat dianggap sebagai rekaman kondisi proyek pada waktu tertentu.
+
+Git juga menyediakan fitur branch, yaitu cabang pengembangan yang memungkinkan pengguna mengerjakan fitur atau perubahan tertentu tanpa mengganggu branch utama. Biasanya branch utama dalam proyek dinamakan main. Dengan adanya branch, pengembang dapat menguji perubahan terlebih dahulu sebelum digabungkan kembali ke branch utama.
+
+Dalam praktiknya, Git sering digunakan bersama platform seperti GitHub yang berfungsi sebagai layanan penyimpanan repository secara online. Platform ini memudahkan proses kolaborasi, penyimpanan repository remote, serta pengelolaan proyek melalui fitur seperti pull request dan code review. Salah satu perintah penting dalam Git adalah git push, yaitu perintah untuk mengirim perubahan dari repository lokal ke repository remote. Sebaliknya, perintah git pull digunakan untuk mengambil perubahan terbaru dari repository remote ke repository lokal.
+
+Pada praktikum ini, Git digunakan melalui Command Line Interface (CLI) agar pengguna dapat memahami proses kerja Git secara lebih mendasar. Dengan menggunakan CLI, pengguna dapat mempelajari tahapan penggunaan Git secara berurutan mulai dari inisialisasi repository, pengecekan status file, menambahkan file ke staging area, melakukan commit, hingga mengirim perubahan ke GitHub. Pemahaman ini menjadi dasar penting sebelum menggunakan Git melalui antarmuka grafis.
+
+# Task 1: Pemanasan Terminal
+
+Setup repository-nya wajib via CLI ya. Simpen dulu mouse lu, biasain ngetik command biar kelihatan kayak hacker beneran. [aku heker kata mamah]
+
+## Install Git
+
+![Install Git](assets/installgit.png)
+
+## Step Pembuatan Repository Pribadi (Via CLI Git)
+
+1. Buka terminal, lalu ke folder terpilih .
+
+```bash
+cd "C:\KULIAH\semester 6\ABP"
+```
+
+![Buka Terminal](assets/step1.png)
+
+2. Masuk ke folder proyek kamu.
+
+```bash
+mkdir "2311102084 Muhammad Zaki Fauzan"
+cd 2311102084 Muhammad Zaki Fauzan
+```
+
+![Membuat folder](assets/step2.png)
+
+3. Lalu inisialisasi Git, hubungkan folder lokal ke repository GitHub pribadi.
+
+```bash
+git init
+git remote add origin https://github.com/jakijek/211102084_Muhamammad-Zaki-Fauzan.git
+```
+
+![Menghubungkan folder lokal dengan repository github](assets/step.png)
+
+4. Cek status dan branch aktif.
+
+```bash
+git status
+git branch
+```
+
+![cek status dan branch aktif](assets/step4.png)
+
+5. Buat atau edit file laporan pada folder masing-masing.
+
+```bash
+echo "Zaki" >> README.md
+```
+
+![Membuat file](assets/step5.png)
+
+6. Tambahkan perubahan ke staging area.
+
+```bash
+git add .
+```
+
+![Perubahan ke staging area](assets/step6.png)
+
+7. Commit perubahan.
+
+```bash
+git commit -m "Praltikum modul 1"
+```
+
+![Commit perubahan](assets/step7.png)
+
+8. Pastikan branch utama bernama `main`.
+
+```bash
+git branch -M main
+```
+
+![memastikan branch main](assets/step8.png)
+
+9. Push hasil commit pertama ke GitHub pribadi.
+
+```bash
+git push -u origin main
+```
+
+![push ke github](<assets/step9.png>)
+![push ke github](<assets/step9(2).png>)
+
+## Penjelasan Perintah Git yang Digunakan
+
+1. `git init`
+
+Perintah ini digunakan untuk menginisialisasi sebuah folder biasa menjadi repository Git. Setelah perintah ini dijalankan, Git akan membuat folder tersembunyi `.git` yang berisi seluruh metadata dan riwayat versi proyek.
+
+2. `git remote add origin <url>`
+
+Perintah ini berfungsi menghubungkan repository lokal dengan repository remote. Kata `origin` merupakan nama alias default untuk alamat repository remote utama. Dengan adanya remote ini, repository lokal dapat melakukan push dan pull ke GitHub.
+
+3. `git status`
+
+Perintah ini menampilkan kondisi terbaru repository, seperti file yang berubah, file yang belum dimasukkan ke staging area, dan file yang siap di-commit. Perintah ini sangat penting untuk mengecek apa saja yang sedang terjadi pada proyek.
+
+4. `git branch`
+
+Perintah ini digunakan untuk melihat branch yang tersedia dan mengetahui branch mana yang sedang aktif. Dalam praktikum ini, branch utama yang digunakan adalah `main`.
+
+5. `git add .`
+
+Perintah ini menambahkan seluruh file yang berubah pada folder aktif ke staging area. Tanda titik (`.`) berarti semua perubahan di direktori saat ini akan dipersiapkan untuk proses commit.
+
+6. `git commit -m "Ini tugas modul 1"`
+
+Perintah commit menyimpan snapshot perubahan yang sudah ada di staging area ke dalam riwayat Git. Opsi `-m` digunakan untuk memberikan pesan commit agar isi perubahan mudah dikenali pada riwayat proyek.
+
+7. `git branch -M main`
+
+Perintah ini digunakan untuk mengganti nama branch aktif menjadi `main`. Opsi `-M` memaksa proses penggantian nama meskipun branch tujuan sudah ada atau perlu ditimpa.
+
+8. `git push -u origin main`
+
+Perintah ini mengirim seluruh commit pada branch `main` di repository lokal ke branch `main` pada remote `origin`. Opsi `-u` atau `--set-upstream` berfungsi untuk menghubungkan branch lokal dengan branch remote tujuan, sehingga pada push berikutnya cukup menggunakan `git push` tanpa menuliskan nama remote dan branch secara lengkap.
+
+9. `echo "Zaki" >> README.md`
+
+Perintah ini digunakan untuk menambahkan teks ke file `README.md` langsung melalui terminal. Pada praktikum, perintah ini menunjukkan bahwa pembuatan atau pengeditan file juga dapat dilakukan dari CLI tanpa harus membuka editor grafis.
