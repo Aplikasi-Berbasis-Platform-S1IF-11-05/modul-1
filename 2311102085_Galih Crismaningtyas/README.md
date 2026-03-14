@@ -1,16 +1,3 @@
-# Aplikasi Berbasis Platform (ABP)
-
-## Pendahuluan
-Selamat datang di repositori mata kuliah **Aplikasi Berbasis Platform** S1IF-11-05!
-
-Mata kuliah ini dirancang untuk membekali mahasiswa dengan kemampuan membangun aplikasi yang efisien, skalabel, dan tangguh menggunakan bahasa pemrograman **Dart (Flutter)** untuk aplikasi mobile dan **PHP (Laravel)** untuk backend. Repositori ini akan menjadi panduan utama Anda dalam mengeksplorasi sintaksis, logika, hingga implementasi platform.
-
----
-
-**Selamat, Berjuang, Suksess**
-
-## Format Laporan Praktikum (README.md)
-
 <div align="center">
   <br />
   <h1>LAPORAN PRAKTIKUM <br> APLIKASI BERBASIS PLATFORM </h1>
@@ -23,9 +10,9 @@ Mata kuliah ini dirancang untuk membekali mahasiswa dengan kemampuan membangun a
   <br />
   <h3>Disusun Oleh :</h3>
   <p>
-    <strong>Rasyid Nafsyarie</strong>
+    <strong>Galih Crismaningtyas</strong>
     <br>
-    <strong>2311102011</strong>
+    <strong>2311102084</strong>
     <br>
     <strong>S1 IF-11-REG05</strong>
   </p>
@@ -56,9 +43,11 @@ Dengan Git, setiap perubahan kode dapat dicatat dalam bentuk commit sehingga dev
 
 # Tugas 1
 ```
-//2311102011
-//Rasyid Nafsyarie
+//2311102084
+//Galih Crismaningtyas
 
 ```
 Output:
-<img width="1901" height="961" alt="image" src="git.PNG" />
+<p align="center">
+  <img src="ss an.PNG" width="800">
+</p>
