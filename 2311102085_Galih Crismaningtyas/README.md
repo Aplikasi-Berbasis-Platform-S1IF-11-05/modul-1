@@ -35,11 +35,9 @@
 
 # Dasar Teori
 
-Git adalah Distributed Version Control System (DVCS) yang digunakan untuk mengelola perubahan kode sumber selama proses pengembangan perangkat lunak. Git memungkinkan developer untuk melacak setiap perubahan yang terjadi pada file, mengelola versi kode, serta memudahkan kolaborasi antar developer dalam satu proyek.
+Git adalah sistem kontrol versi Version Control System yang digunakan untuk mengelola perubahan pada file atau kode program dalam suatu proyek. Dengan Git, setiap perubahan yang dilakukan pada kode akan tercatat sehingga pengembang dapat melihat riwayat perubahan, mengetahui siapa yang melakukan perubahan, serta mengembalikan file ke versi sebelumnya jika terjadi kesalahan. Git sangat membantu dalam proses pengembangan perangkat lunak karena memungkinkan pengelolaan kode yang lebih terstruktur dan aman. Sistem ini dikembangkan oleh Linus Torvalds pada tahun 2005 untuk mendukung pengembangan sistem operasi Linux.
 
-Git pertama kali dikembangkan oleh Linus Torvalds pada tahun 2005 untuk mendukung pengembangan kernel Linux.
-
-Dengan Git, setiap perubahan kode dapat dicatat dalam bentuk commit sehingga developer dapat mengetahui siapa yang melakukan perubahan, kapan perubahan dilakukan, dan bagian kode apa yang berubah.
+Selain itu, Git juga mendukung kerja kolaboratif dalam tim pengembang. Beberapa orang dapat bekerja pada proyek yang sama secara bersamaan tanpa saling menimpa perubahan yang dibuat oleh anggota tim lainnya. Git biasanya digunakan bersama layanan penyimpanan repository online seperti GitHub, GitLab, dan Bitbucket yang memudahkan penyimpanan, berbagi, serta pengelolaan kode secara daring. Dengan adanya Git, proses pengembangan perangkat lunak menjadi lebih terorganisir, efisien, dan mudah dikelola.
 
 # Tugas 1
 ```
