@@ -12,7 +12,7 @@
   <p>
     <strong>Galih Crismaningtyas</strong>
     <br>
-    <strong>2311102084</strong>
+    <strong>2311102085</strong>
     <br>
     <strong>S1 IF-11-REG05</strong>
   </p>
@@ -41,7 +41,7 @@ Selain itu, Git juga mendukung kerja kolaboratif dalam tim pengembang. Beberapa 
 
 # Tugas 1
 ```
-//2311102084
+//2311102085
 //Galih Crismaningtyas
 
 ```
