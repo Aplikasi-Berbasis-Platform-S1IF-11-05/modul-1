@@ -62,10 +62,21 @@ Untuk melakukan instalasi git pada computer Anda, lakukan langkah berikut ini:<b
 
 # Tugas 1
 
-//2311102121
-//Amanda Windhu Gustyas
-1. Instalasi Git
-2. Mengecek versi github
-![D](Gambar1.png)
+1. Instalasi Git<br>
+2. Mengecek versi github<br>
+![Version](Gambar1.png)<br>
+3. Konfigurasi Git<br>
+Setelah Git terinstal, dilakukan konfigurasi username dan email menggunakan perintah berikut.<br>
+![Konfgurasi](Gambar2.png)<br>
+4. Membuat Repository Baru<br>
+Repository baru dapat dibuat menggunakan perintah berikut.<br>
+![Repo](Gambar3.png)<br>
+5. Menambahkan File ke Repository<br>
+Membuat file baru dengan perintah berikut.<br>
+![5](Gambar4.png)<br>
+6. Melakukan Commit<br>
+Setelah file ditambahkan, perubahan disimpan menggunakan commit.<br>
+`git commit -m "menambahkan test file`
+
 
 Output:
