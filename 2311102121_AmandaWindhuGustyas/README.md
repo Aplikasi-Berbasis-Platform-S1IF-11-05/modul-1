@@ -49,26 +49,24 @@ Untuk melakukan instalasi git pada computer Anda, lakukan langkah berikut ini:<b
 4. Pada bagian ini, Anda dapat memilih komponen apa saja yang akan dipasang, jika sudah klik next untuk melanjutkan.<br>
 5. Pilih editor yang akan digunakan secara default oleh Git. Gunakan Nano jika ingin editor yang lebih simpel untuk digunakan, atau Vim jika memang Anda menguasainya.<br>
 6. Pilih opsi ketiga agar Command Prompt dapat mengenali Git dan beberapa perintah UNIX lainnya.<br>
-7. Untuk selanjutnya, gunakan opsi default sampai Anda berada pada tahap install. Lalu klik install.<br?
+7. Untuk selanjutnya, gunakan opsi default sampai Anda berada pada tahap install. Lalu klik install.<br>
 8. Pastikan Git sudah terinstall dengan melakukan perintah git --version pada command prompt.<br>
 9. Lakukan konfigurasi awal dengan melakukan perintah.<br>
 
+### 3. Penggunaan Git
+1. Membuat repositori baru.<br>
+2. Menambahkan isi repositori.<br>
+3. Membuat repositori online<br/>
+4. Menyimpan hasil pekerjaan di repositori online.<br>
+5. Clone repositori milik orang lain.<br>
 
 # Tugas 1
 ```
-//2311102xxx
-//My Bubub
+//2311102121
+//Amanda Windhu Gustyas
+1. Instalasi Git
+2. Mengecek versi gitu
+![Gambar 1]("C:\Users\Axioo Pongo\OneDrive\Pictures\Screenshots\Gambar 1.png")
 
-<!DOCTYPE html>
-<html lang="id">
-<head>
-  <meta charset="UTF-8"/>
-  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>Aku Cinta Telkom</title>
-</head>
-<body>
-  ...
-</body>
-</html>
-```
+
 Output:
