@@ -46,7 +46,7 @@ Repository adalah tempat penyimpanan seluruh file proyek berserta riwayat peruba
 git init
 ```
 
-![git_init_repository](/docs/images/git_init_repository.png)
+![git_init_repository](docs/images/git_init_repository.png)
 
 Perintah tersebut akan membuat sebuah direktoru tersembunyi `.git` yang berisi database perubahan proyek.
 
@@ -58,7 +58,7 @@ Staging area adalah area sementara untuk menyiapkan perubahan sebelum disimpan k
 git add .
 ```
 
-![git_add](/docs/images/git_add.png)
+![git_add](docs/images/git_add.png)
 
 Langkah ini memungkinkan kita menyimpan semua perubahan yang akan disimpan dalam satu commit.
 
@@ -70,7 +70,7 @@ Commit adalah sebuah proses menyimpan perubahan yang telah berada pada staging a
 git commit -m "feat: initial praktikum modul 1"
 ```
 
-![git_commit_process](/docs/images/git_commit_process.png)
+![git_commit_process](docs/images/git_commit_process.png)
 
 Commit berfungsi sebagai titik riwayat yang memungkinkan pengembang melacak perkembangan proyek.
 
@@ -82,7 +82,7 @@ Remote repository merupakan repository yang berada pada server atau layanan host
 git remote add origin https://github.com/Aplikasi-Berbasis-Platform-S1IF-11-05/modul-1.git
 ```
 
-![git_remote_add_origin](/docs/images/git_remote_add_origin.png)
+![git_remote_add_origin](docs/images/git_remote_add_origin.png)
 
 Setelah terhubung, perubahan dari repository lokal dapat dikirim ke remote menggunakan perintah `git push`.
 
@@ -94,7 +94,7 @@ Clone digunakan untuk menyalin repository dari remote ke komputer lokal. Dengan 
 git clone https://github.com/Aplikasi-Berbasis-Platform-S1IF-11-05/modul-1.git
 ```
 
-![git_clone_repository](/docs/images/git_clone_repository.png)
+![git_clone_repository](docs/images/git_clone_repository.png)
 
 Fitur ini memungkinkan kolaborasi antar pengembang dalam satu proyek yang sama.
 
@@ -116,7 +116,7 @@ Selanjutnya dilakukan pengecekan kondisi repository menggunakan `git status`, ke
 
 Dokumentasi proses mulai dari `clone repository hingga push ke Github` ditunjukkan pada gambar berikut:
 
-![task_1_complete](/docs/images/task_1_complete.png)
+![task_1_complete](docs/images/task_1_complete.png)
 
 ## Kesimpulan
 
