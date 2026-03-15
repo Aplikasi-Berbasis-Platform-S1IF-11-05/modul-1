@@ -70,6 +70,9 @@ Setelah Git terinstal, dilakukan konfigurasi username dan email menggunakan peri
 ![Konfgurasi](Gambar2.png)<br>
 4. Membuat Repository Baru<br>
 Repository baru dapat dibuat menggunakan perintah berikut.<br>
+![Repo](Gambar3.png)<br>
+5. Menambahkan File ke Repository<br>
+Membuat file baru dengan perintah berikut.<br>
 
 
 
