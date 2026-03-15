@@ -61,11 +61,14 @@ Untuk melakukan instalasi git pada computer Anda, lakukan langkah berikut ini:<b
 5. Clone repositori milik orang lain.<br>
 
 # Tugas 1
-
+```
 //2311102121
 //Amanda Windhu Gustyas
-1. Instalasi Git
-2. Mengecek versi github
-![D](Gambar1.png)
+1. Instalasi Git<br>
+2. Mengecek versi github<br>
+![D](Gambar1.png)<br>
+3. Konfigurasi Git<br>
+Setelah Git terinstal, dilakukan konfigurasi username dan email menggunakan perintah berikut.<br>
+
 
 Output:
