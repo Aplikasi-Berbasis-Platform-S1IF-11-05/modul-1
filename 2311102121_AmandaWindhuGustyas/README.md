@@ -35,9 +35,15 @@
 
 # Dasar Teori
 
+### 1. Pengenalan Git
 <p style="text-align: justify;">
-Git adalah salah satu sistem pengontrol versi (Version Control System) pada proyek perangkat lunak yang diciptakan oleh Linus Torvalds. Pengontrol versi bertugas mencatat setiap perubahan pada file proyek yang dikerjakan oleh banyak orang maupun sendiri.
+Git adalah salah satu sistem pengontrol versi (Version Control System) pada proyek perangkat lunak yang diciptakan oleh Linus Torvalds. Pengontrol versi bertugas mencatat setiap perubahan pada file proyek yang dikerjakan oleh banyak orang maupun sendiri. Git dikenal juga dengan distributed revision control (VCS
+terdistribusi), artinya penyimpanan database Git tidak hanya berada dalam satu tempat saja.
 </p>
+
+### 2. Instalasi Git
+Untuk melakukan instalasi git pada computer Anda, lakukan langkah berikut ini:<br>
+
 
 # Tugas 1
 ```
