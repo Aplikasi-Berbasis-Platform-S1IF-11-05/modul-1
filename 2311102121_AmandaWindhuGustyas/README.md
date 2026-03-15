@@ -43,7 +43,9 @@ terdistribusi), artinya penyimpanan database Git tidak hanya berada dalam satu t
 
 ### 2. Instalasi Git
 Untuk melakukan instalasi git pada computer Anda, lakukan langkah berikut ini:<br>
-
+1. Buka link berikut ini untuk mengunduh Git. https://git-scm.com/download/win<br>
+2. Klik dua kali pada file yang sudah diunduh.<br>
+3. Maka akan muncul informasi lisensi Git, klik next untuk melanjutkan.<br>
 
 # Tugas 1
 ```
