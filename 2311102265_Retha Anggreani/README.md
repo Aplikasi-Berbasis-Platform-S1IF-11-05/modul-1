@@ -176,7 +176,7 @@ Instalasi dan Git
 14. Jika tidak ada error berarti prosesnya sudah berhasil.
 
 
-<img src="image-1.png" />
+<img src="screenshoot.png" />
 
 # Kesimpulan
 
