@@ -65,7 +65,7 @@ Untuk melakukan instalasi git pada computer Anda, lakukan langkah berikut ini:<b
 //2311102121
 //Amanda Windhu Gustyas
 1. Instalasi Git
-2. Mengecek versi gitu
-![Gambar 1](../Gambar 1.png)
+2. Mengecek versi github
+![D](Gambar 1.png)
 
 Output:
