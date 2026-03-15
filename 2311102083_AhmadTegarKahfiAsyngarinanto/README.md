@@ -87,28 +87,27 @@ Git adalah *tool* yang berjalan di komputer lokal untuk mengelola versi file, se
 ## Langkah-Langkah Upload Tugas ke GitHub via Git (Windows)
 
 ### Prasyarat
-Pastikan Git sudah terinstal di komputer. Cek dengan membuka **Git Bash** atau **Command Prompt** dan ketik:
+Sebelum memulai, pastikan Git sudah terpasang di komputer. Untuk memverifikasinya, buka **Git Bash** dan jalankan perintah berikut:
 ```
 git --version
 ```
-Jika muncul versi Git, berarti Git sudah siap digunakan.
-
 ---
 
 ### Langkah 1 – Clone Repository Tugas
 
-Buka **Git Bash**, lalu clone repository mata kuliah ke komputer lokal. Pindah terlebih dahulu ke direktori yang diinginkan.
+Buka **Git Bash**, lalu pindah ke direktori tempat kita ingin menyimpan project, kemudian clone repository mata kuliah:
+
 ```bash
-cd Desktop
+cd "C:/Praktikum ABP"
 git clone https://github.com/Aplikasi-Berbasis-Platform-S1IF-11-05/modul-1
 cd modul-1
 ```
 
 ---
 
-### Langkah 2 – Buat Folder dengan Format NIM_Nama
+### Langkah 2 – Buat Folder Sesuai NIM dan Nama
 
-Di dalam folder hasil clone, buat folder baru dengan format **NIM_NamaLengkap**:
+Di dalam folder hasil clone, buat folder baru dengan format **NIM_NamaLengkap** tanpa spasi:
 
 ```bash
 mkdir "2311102083_AhmadTegarKahfiAsyngarinanto"
@@ -126,19 +125,31 @@ cd "2311102083_AhmadTegarKahfiAsyngarinanto"
 
 ### Langkah 4 – Buat File README.md
 
-Buat file README.md di dalam folder tersebut:
+Buat file README.md kosong terlebih dahulu menggunakan perintah berikut:
 
 ```bash
 echo "" >> README.md
 ```
 
-Kemudian buka file `README.md` menggunakan teks editor (misalnya VS Code atau Notepad), lalu isi dengan laporan praktikum sesuai format yang telah ditentukan (seperti laporan ini).
+Setelah itu, buka file `README.md` menggunakan teks editor seperti VS Code atau Notepad, lalu isi dengan laporan praktikum sesuai format yang ditentukan.
 
 ---
 
-### Langkah 5 – Kembali ke Root Repository
+### Langkah 5 – Buat Folder Assets dan Tambahkan Screenshot
 
-Setelah selesai mengisi README.md, kembali ke folder utama repository:
+Buat folder `Assets` untuk menyimpan file screenshot sebagai bukti pengerjaan:
+
+```bash
+mkdir Assets
+```
+
+Kemudian taruh file screenshot (misal `Bukti.png`) ke dalam folder `Assets` tersebut melalui Windows Explorer.
+
+---
+
+### Langkah 6 – Kembali ke Root Repository
+
+Setelah semua file siap, kembali ke folder utama repository:
 
 ```bash
 cd ..
@@ -146,27 +157,21 @@ cd ..
 
 ---
 
-### Langkah 6 – Cek Status Perubahan
+### Langkah 7 – Cek Status Perubahan
 
-Lihat file apa saja yang berubah atau baru ditambahkan:
+Sebelum meng-upload, cek terlebih dahulu file apa saja yang sudah ditambahkan atau diubah:
 
 ```bash
 git status
 ```
 
-Akan muncul folder/file baru yang ditandai sebagai *untracked* (belum dilacak Git).
+File dan folder baru akan muncul sebagai *untracked* yang artinya belum dilacak oleh Git.
 
 ---
 
-### Langkah 7 – Tambahkan Perubahan ke Staging Area
+### Langkah 8 – Tambahkan Perubahan ke Staging Area
 
-Tambahkan folder beserta isinya ke staging area:
-
-```bash
-git add "2311102083_AhmadTegarKahfiAsyngarinanto"
-```
-
-Atau tambahkan semua perubahan sekaligus:
+Tambahkan seluruh isi folder ke staging area agar siap untuk di-commit:
 
 ```bash
 git add .
@@ -174,9 +179,9 @@ git add .
 
 ---
 
-### Langkah 8 – Commit Perubahan
+### Langkah 9 – Commit Perubahan
 
-Simpan perubahan dengan pesan commit yang jelas:
+Simpan perubahan dengan pesan yang menjelaskan isi commit:
 
 ```bash
 git commit -m "Tugas Modul 1 - Instalasi & Git"
@@ -184,7 +189,17 @@ git commit -m "Tugas Modul 1 - Instalasi & Git"
 
 ---
 
-### Langkah 9 – Push ke GitHub
+### Langkah 10 – Sinkronisasi dengan Repository Remote
+
+Sebelum push, ambil dulu perubahan terbaru dari GitHub untuk menghindari konflik/eror
+
+```bash
+git pull --rebase
+```
+
+---
+
+### Langkah 11 – Push ke GitHub
 
 Kirim commit ke repository GitHub:
 
@@ -192,37 +207,19 @@ Kirim commit ke repository GitHub:
 git push
 ```
 
-
 ---
 
-### Langkah 10 – Verifikasi di GitHub
+### Langkah 12 – Verifikasi di GitHub
 
-Buka browser dan kunjungi URL repository:
+Buka browser dan kunjungi URL repository berikut:
 ```
 https://github.com/Aplikasi-Berbasis-Platform-S1IF-11-05/modul-1
 ```
-Pastikan folder `2311102083_AhmadTegarKahfiAsyngarinanto` sudah muncul di halaman repository. ✅
+Pastikan folder `2311102083_AhmadTegarKahfiAsyngarinanto` beserta isinya sudah muncul dengan benar.
 
 ---
 
 ## Output
-
-```
-//2311102083
-//Ahmad Tegar Kahfi Asyngarinanto
-
-<!DOCTYPE html>
-<html lang="id">
-<head>
-  <meta charset="UTF-8"/>
-  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>Aku Cinta Telkom</title>
-</head>
-<body>
-  ...
-</body>
-</html>
-```
 
 Output:
 
