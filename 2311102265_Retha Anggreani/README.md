@@ -133,9 +133,6 @@ Dengan menggunakan `.gitignore`, repository akan lebih bersih dan hanya berisi f
 ---
 
 # Tugas 1
-// Instalasi dan GIT
-
-# Tugas 1
 Instalasi dan Git
 
 1. Pertama install Git dulu dari website resminya.
@@ -177,6 +174,10 @@ Instalasi dan Git
     `git push origin main`.
 
 14. Jika tidak ada error berarti prosesnya sudah berhasil.
+
+
+<img src="image-1.png" />
+
 # Kesimpulan
 
 Dari praktikum ini jadi lebih paham cara menggunakan Git sebagai version control. Mulai dari install Git, clone repository, membuat folder dan file README.md, sampai commit dan push ke repository. Dengan Git, perubahan file dalam proyek bisa tercatat dengan rapi dan lebih mudah dikelola.
