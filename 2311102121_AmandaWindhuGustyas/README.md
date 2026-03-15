@@ -66,7 +66,7 @@ Untuk melakukan instalasi git pada computer Anda, lakukan langkah berikut ini:<b
 //Amanda Windhu Gustyas
 1. Instalasi Git
 2. Mengecek versi gitu
-![Gambar 1]("C:\Users\Axioo Pongo\OneDrive\Pictures\Screenshots\Gambar 1.png")
+"C:\Users\Axioo Pongo\OneDrive\Pictures\Screenshots\Gambar 1.png"
 
 
 Output:
