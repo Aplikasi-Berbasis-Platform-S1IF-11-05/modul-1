@@ -46,6 +46,13 @@ Untuk melakukan instalasi git pada computer Anda, lakukan langkah berikut ini:<b
 1. Buka link berikut ini untuk mengunduh Git. https://git-scm.com/download/win<br>
 2. Klik dua kali pada file yang sudah diunduh.<br>
 3. Maka akan muncul informasi lisensi Git, klik next untuk melanjutkan.<br>
+4. Pada bagian ini, Anda dapat memilih komponen apa saja yang akan dipasang, jika sudah klik next untuk melanjutkan.<br>
+5. Pilih editor yang akan digunakan secara default oleh Git. Gunakan Nano jika ingin editor yang lebih simpel untuk digunakan, atau Vim jika memang Anda menguasainya.<br>
+6. Pilih opsi ketiga agar Command Prompt dapat mengenali Git dan beberapa perintah UNIX lainnya.<br>
+7. Untuk selanjutnya, gunakan opsi default sampai Anda berada pada tahap install. Lalu klik install.<br?
+8. Pastikan Git sudah terinstall dengan melakukan perintah git --version pada command prompt.<br>
+9. Lakukan konfigurasi awal dengan melakukan perintah.<br>
+
 
 # Tugas 1
 ```
