@@ -82,3 +82,5 @@ Setelah melakukan commit, status repository dapat diperiksa menggunakan perintah
 8. Clone Repository Milik Orang Lain<br>
 Git juga dapat digunakan untuk mengambil repository yang dimiliki oleh orang lain dengan menggunakan perintah clone. Perintah yang digunakan adalah:
 `git clone https://github.com/username/nama-repository.git` Perintah ini akan menyalin seluruh isi repository dari GitHub ke komputer lokal sehingga repository tersebut dapat digunakan atau dikembangkan lebih lanjut.
+
+Output:<br>
