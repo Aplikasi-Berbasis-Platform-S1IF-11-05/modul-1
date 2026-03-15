@@ -76,7 +76,7 @@ Membuat file baru dengan perintah berikut.<br>
 ![5](Gambar4.png)<br>
 6. Melakukan Commit<br>
 Setelah file ditambahkan, perubahan disimpan menggunakan commit.<br>
-`git commit -m "menambahkan test file`
+`git commit -m "menambahkan test file"`
 
 
 Output:
