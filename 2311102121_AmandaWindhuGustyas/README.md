@@ -77,6 +77,8 @@ Membuat file baru dengan perintah berikut.<br>
 6. Melakukan Commit<br>
 Setelah file ditambahkan, perubahan disimpan menggunakan commit.<br>
 `git commit -m "menambahkan test file"`
-
-
-Output:
+7. Mengecek Status Repository.<br>
+Setelah melakukan commit, status repository dapat diperiksa menggunakan perintah`git status`<br>
+8. Clone Repository Milik Orang Lain<br>
+Git juga dapat digunakan untuk mengambil repository yang dimiliki oleh orang lain dengan menggunakan perintah clone. Perintah yang digunakan adalah:
+`git clone https://github.com/username/nama-repository.git` Perintah ini akan menyalin seluruh isi repository dari GitHub ke komputer lokal sehingga repository tersebut dapat digunakan atau dikembangkan lebih lanjut.
