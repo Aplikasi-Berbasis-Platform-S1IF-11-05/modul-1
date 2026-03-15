@@ -192,7 +192,6 @@ Kirim commit ke repository GitHub:
 git push
 ```
 
-Jika diminta login, masukkan username dan password (atau personal access token) GitHub kamu.
 
 ---
 
