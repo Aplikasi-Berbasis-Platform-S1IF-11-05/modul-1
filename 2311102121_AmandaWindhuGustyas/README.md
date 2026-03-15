@@ -61,7 +61,7 @@ Untuk melakukan instalasi git pada computer Anda, lakukan langkah berikut ini:<b
 5. Clone repositori milik orang lain.<br>
 
 # Tugas 1
-```
+
 //2311102121
 //Amanda Windhu Gustyas
 1. Instalasi Git
