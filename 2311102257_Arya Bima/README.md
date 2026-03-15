@@ -114,5 +114,17 @@ Git mengelola file dalam tiga area utama:
 
 # Tugas 1
 
-Output:
-<img width="1280" height="720" alt="git command" src="git.png" />
+## Langkah - Langkah
+
+1. Clone repository
+   `git clone https://github.com/Aplikasi-Berbasis-Platform-S1IF-11-05/modul-1`
+2. Masuk ke repository
+   `cd modul-1`
+3. Buat folder pengumpulan
+   `mkdir "2311102257_Arya Bima"`
+4. Masuk ke folder yang dibuat
+   `cd "2311102257_Arya Bima"`
+5. Buat file `README.md` untuk laporan praktik
+   `echo "" >> README.md`
+   Output:
+   <img width="1280" height="720" alt="git command" src="git.png" />
