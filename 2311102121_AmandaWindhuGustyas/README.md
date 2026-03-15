@@ -84,3 +84,4 @@ Git juga dapat digunakan untuk mengambil repository yang dimiliki oleh orang lai
 `git clone https://github.com/username/nama-repository.git` Perintah ini akan menyalin seluruh isi repository dari GitHub ke komputer lokal sehingga repository tersebut dapat digunakan atau dikembangkan lebih lanjut.
 
 Output:<br>
+![Hasil](Gambar5.png)<br>
