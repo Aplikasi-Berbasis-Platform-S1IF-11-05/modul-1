@@ -61,7 +61,7 @@ Modul Praktikum 1 & 2
 // 14. DONE!
 ```
 ## Screenshot Hasil
-![Hasil 1](https://github.com/user-attachments/assets/ef714cb8-8d63-42e9-82a6-aa269e15509d)
+![Hasil 1](https://github.com/user-attachments/assets/a5ab079a-6481-4270-9165-fce6387ae2dd)
 
 ![Hasil 2](https://github.com/user-attachments/assets/86ded042-dff6-4a00-b916-71af4d57fb15)
 
