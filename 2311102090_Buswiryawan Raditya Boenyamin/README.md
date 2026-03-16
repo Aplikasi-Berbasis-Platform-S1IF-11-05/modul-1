@@ -44,5 +44,5 @@ terdistribusi), merupakan penyimpanan database Git tidak hanya berada dalam satu
 
 ```
 Output:
-<img width="1901" height="961" alt="image" src="Screenshot 2026-03-16 173151.png />
+<img width="1901" height="961" alt="image" src="[Screenshot 2026-03-16 173151.png](https://github.com/Aplikasi-Berbasis-Platform-S1IF-11-05/modul-1/blob/main/2311102090_Buswiryawan%20Raditya%20Boenyamin/Output/Screenshot%202026-03-16%20173151.png) />
 
