@@ -12,9 +12,9 @@
   <br />
   <h3>Disusun Oleh :</h3>
   <p>
-    <strong>Reyhan Aldiansyah</strong>
+    <strong>Sya'bananta Faqih M Lizbar</strong>
     <br>
-    <strong>2311102082</strong>
+    <strong>2311102097</strong>
     <br>
     <strong>S1 IF-11-REG05</strong>
   </p>
@@ -41,24 +41,24 @@ Modul Praktikum 1 & 2
 
 # Tugas 1 - Instalasi dan GIT
 ```
-// 2311102082
-// Reyhan Aldiansyah
+// 2311102097
+// Sya'bananta Faqih M Lizbar
 
 // Langkah-langkahnya
-// 1. Install GIT
-// 2. Setelah Install, Buat Folder seperti "Laprak ABP" yang disimpan dalam Folder D saya
-// 3. Masuk CMD lalu masuk ke direktori Folder tadi
-// 4. Git Clone Repository Main Modul-1
-// 5. Lalu kita masuk ke folder repo dulu dengan "cd modul-1"
-// 6. Kita buat Folder sesuai NIM dan Nama dengan "mkdir 2311102082_ReyhanAldiansyah" lalu lanjut dengan "cd 2311102082_ReyhanAldiansyah"
-// 7. Selanjutnya kita buat file README.md nya dengan "echo # Modul 1 > README.md"
-// 8. Setelah itu tinggal isi File itu dengan "code ." akan diarahkan ke VSCODE (kalo saya ini)
-// 9. Kalo sudah diisi tinggal balik ke repo dengan "cd .."
-// 10. Nah ini buat menambahkan Folder dan File tadi ke Repo Modul 1 dengan "git add ."
-// 11. Kita kasih commitnya dengan "git commit -m "Tugas Modul 1"
-// 12. Kita lakukan sinkronisasi dulu dengan "git pull --rebase origin main"
-// 13. Langkah terakhir tinggal Push aja dengan "git push origin main"
-// 14. DONE BWANG
+// 1. Pastikan GIT sudah terinstall dengan mengetik "git --version" di terminal
+// 2. Buka Terminal (PowerShell) dengan klik kanan di Desktop lalu pilih "Open in Terminal"
+// 3. Clone repository modul dari dosen dengan "git clone https://github.com/Aplikasi-Berbasis-Platform-S1IF-11-05/modul-1.git"
+// 4. Masuk ke folder repo dengan "cd modul-1"
+// 5. Buat folder sesuai NIM dan Nama dengan "mkdir "2311102097_Syabananta faqih M lizbar""
+// 6. Masuk ke folder tersebut dengan "cd "2311102097_Syabananta faqih M lizbar""
+// 7. Buat file README.md dengan "echo "" >> README.md"
+// 8. Buat folder tugas dengan "mkdir "tugas-1""
+// 9. Isi file README.md dengan membuka Notepad menggunakan "notepad README.md"
+// 10. Setelah selesai mengisi README.md, simpan dengan Ctrl+S lalu tutup Notepad
+// 11. Tambahkan semua file ke staging area dengan "git add ."
+// 12. Commit perubahan dengan "git commit -m "Tugas Modul 1 - 2311102097 Syabananta faqih M lizbar""
+// 13. Push ke repository GitHub dengan "git push"
+// 14. DONE!
 ```
 ## Screenshot Hasil
 ![Hasil 1](https://github.com/user-attachments/assets/ef714cb8-8d63-42e9-82a6-aa269e15509d)
