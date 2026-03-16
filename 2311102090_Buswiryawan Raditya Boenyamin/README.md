@@ -40,6 +40,7 @@ dikerjakan oleh banyak orang juga sendiri. Git dikenal pula menggunakan distribu
 terdistribusi), merupakan penyimpanan database Git tidak hanya berada dalam satu tempat saja.
 
 # Tugas 1
+Setup repository-nya wajib via CLI ya. Simpen dulu mouse lu, biasain ngetik command biar kelihatan kayak hacker beneran.
 ```bash
 # 1. Konfigurasi identitas Git (lakukan sekali saja)
 git config --global user.name "Buswiryawan Raditya Boenyamin"
