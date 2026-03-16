@@ -40,7 +40,36 @@ dikerjakan oleh banyak orang juga sendiri. Git dikenal pula menggunakan distribu
 terdistribusi), merupakan penyimpanan database Git tidak hanya berada dalam satu tempat saja.
 
 # Tugas 1
-```
+```bash
+# 1. Konfigurasi identitas Git (lakukan sekali saja)
+git config --global user.name "Buswiryawan Raditya Boenyamin"
+git config --global user.email "email@example.com"
+ 
+# 2. Buat folder proyek dan masuk ke dalamnya
+mkdir modul-1-git
+cd modul-1-git
+ 
+# 3. Inisialisasi repositori Git baru
+git init
+ 
+# 4. Buat file pertama
+touch README.md
+echo "# Modul 1 - Git" >> README.md
+ 
+# 5. Cek status perubahan
+git status
+ 
+# 6. Tambahkan file ke staging area
+git add README.md
+ 
+# 7. Commit perubahan
+git commit -m "first commit"
+ 
+# 8. Hubungkan ke repositori GitHub
+git remote add origin https://github.com/Buswir/modul-1-git.git
+ 
+# 9. Push ke GitHub
+git push -u origin master
 
 ```
 Output:
