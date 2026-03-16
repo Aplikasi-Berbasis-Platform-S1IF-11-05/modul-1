@@ -44,5 +44,4 @@ Git merupakan sistem kontrol versi terdistribusi (Distributed Version Control Sy
 Selain itu, Git sering digunakan bersama dengan platform repositori daring seperti GitHub, GitLab, dan Bitbucket untuk mempermudah kolaborasi dan penyimpanan proyek secara online. Melalui platform tersebut, pengembang dapat menyimpan kode sumber, melacak perubahan, melakukan kolaborasi tim, serta mengelola pengembangan proyek dengan lebih terorganisir. Dengan berbagai fitur yang dimilikinya, Git menjadi salah satu alat yang sangat penting dalam proses pengembangan perangkat lunak modern.
 
 # Screenshoot Program
-![alt text]()
-(![alt text](<![alt text](ben_modul1.png)>)>)
+<img width="1901" height="961" alt="image" src="ben_modul1.png"/>
