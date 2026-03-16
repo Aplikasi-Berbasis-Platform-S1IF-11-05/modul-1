@@ -1,5 +1,4 @@
 # Modul 1 
-# Modul 1 
 <div align="center">
   <br />
   <h1>LAPORAN PRAKTIKUM <br> APLIKASI BERBASIS PLATFORM </h1>
@@ -53,4 +52,4 @@ Beberapa konsep penting dalam Git meliputi repository sebagai tempat penyimpanan
 
 # Screenshoot Program
 
-<img width="1901" height="961" alt="image" src="git.png"/>
+<img width="1901" height="961" alt="image" src="Screenshot (695).png"/>
