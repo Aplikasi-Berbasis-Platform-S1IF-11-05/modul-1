@@ -63,6 +63,6 @@ Modul Praktikum 1 & 2
 ## Screenshot Hasil
 ![Hasil 1](https://github.com/user-attachments/assets/ef714cb8-8d63-42e9-82a6-aa269e15509d)
 
-![Hasil 2](https://github.com/user-attachments/assets/e70eadf2-db23-48ba-a0cb-69016a922654)
+![Hasil 2](https://github.com/user-attachments/assets/86ded042-dff6-4a00-b916-71af4d57fb15)
 
 
