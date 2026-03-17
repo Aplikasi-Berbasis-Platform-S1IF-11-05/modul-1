@@ -66,3 +66,5 @@ Modul Praktikum 1 & 2
 ![Hasil 2](https://github.com/user-attachments/assets/86ded042-dff6-4a00-b916-71af4d57fb15)
 
 
+
+
