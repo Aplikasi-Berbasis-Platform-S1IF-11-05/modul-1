@@ -67,3 +67,18 @@ Modul Praktikum 1 & 2
 
 ### Copy Screenshot to Assets Folder
 ![Hasil 2](assets/Screenshot%202026-03-17%20184436.png)
+
+### Upload Github
+![Hasil 3](assets/Screenshot%202026-03-17%20202749.png)
+
+Akan tetapi, terjadi Error ketika akan mengirim perubahan ke Github dari Device
+
+### Git Pull
+![Hasil 4](assets/Screenshot%202026-03-17%20202936.png)
+
+Git pull terlebih dahulu guna mengambil perubahan dari Github ke Device
+
+### Push Kembali
+![Hasil 5](assets/Screenshot%202026-03-17%20203124.png)
+
+Lakukan Push kembali untuk update ke dalam Github
