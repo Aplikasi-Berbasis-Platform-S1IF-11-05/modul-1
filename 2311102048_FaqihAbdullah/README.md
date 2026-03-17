@@ -14,7 +14,7 @@
 
 ### Disusun Oleh
 
-**Faqih**  
+**Faqih Abdullah**  
 **2311102048**  
 **S1 IF-11-REG05**
 
@@ -58,4 +58,38 @@ Dengan adanya Git dan GitHub, proses pengembangan perangkat lunak menjadi lebih 
 Berikut langkah-langkah yang dilakukan pada praktikum modul 1.
 
 1. Menginstall Git pada komputer.
-2. Memastikan instalasi Git berhasil dengan menjalankan perintah:
+2. Memastikan instalasi Git berhasil dengan menjalankan perintah: git --version
+3. Mengunduh repository modul praktikum dari GitHub: git clone https://github.com/Aplikasi-Berbasis-Platform-S1IF-11-05/modul-1.git
+4. Membuat folder tugas sesuai format **NIM_Nama**: mkdir 2311102048_FaqihAbdullah
+5. Masuk ke dalam folder yang telah dibuat: cd 2311102048_Faqih
+6. Membuat file README.md sebagai laporan praktikum: echo "# Modul 1" > README.md
+7. Mengedit file menggunakan Visual Studio Code
+8. Menambahkan perubahan ke staging area: git add .
+9. Melakukan commit untuk menyimpan perubahan: git commit -m "Laporan Praktikum Modul 1"
+10. Melakukan sinkronisasi dengan repository utama sebelum push: git pull --rebase origin main
+11. Mengunggah perubahan ke repository GitHub: git push origin main
+
+
+
+---
+
+# Hasil Praktikum
+
+Berikut merupakan hasil dari proses praktikum yang telah dilakukan menggunakan Git melalui Command Line Interface.
+
+Pada tahap ini seluruh proses mulai dari cloning repository, pembuatan folder tugas, pembuatan file laporan README.md, hingga proses commit dan push ke GitHub telah berhasil dilakukan.
+
+---
+
+# Screenshot Program
+
+<img src="ss_modul1.png">
+
+
+
+
+
+
+
+
+
