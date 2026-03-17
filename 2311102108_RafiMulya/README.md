@@ -59,4 +59,4 @@ Dalam ekosistem pengembangan modern, Git telah menjadi standar industri yang dip
 
 ```
 Output:
-mv ~/Dekstop/instal_git.png ~/PrakABP_modul1/
+<img width="1901" height="961" alt="image" src="instal_git.png" />
