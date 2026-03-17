@@ -8,7 +8,7 @@
 
 <br>
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/GitHub-Mark.png" width="200">
+<img src="Logo Vertikal Telkom University.png" width="200">
 
 <br><br>
 
